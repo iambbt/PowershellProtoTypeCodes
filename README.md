@@ -8,4 +8,3 @@ They are;
 2. Registering a DLL
 3. Sending E-Mail
 4. Making DB Connection
-5. File copy, and removing
